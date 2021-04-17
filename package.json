@@ -1,0 +1,22 @@
+{
+  "name": "train",
+  "version": "1.0.0",
+  "description": "train",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yujie-cheng/train.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yujie-cheng/train/issues"
+  },
+  "homepage": "https://github.com/yujie-cheng/train#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
