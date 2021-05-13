@@ -1,0 +1,10 @@
+{
+  "name": "TSFile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.150.1",
+    "flow-remove-types": "^2.150.1"
+  }
+}
